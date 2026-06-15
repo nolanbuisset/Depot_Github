@@ -1,0 +1,25 @@
+
+header h1 {
+color: #000000;
+text-align: center;
+}
+body {
+background-color: #67bdff;
+text-align: center;
+
+}
+main {
+    background-color: rgb(93, 136, 224);
+    text-align: center;
+    
+}
+footer {
+    background-color: aquamarine;
+    text-align: center;
+}
+header h1 {
+    background-color: azure;
+}
+body {
+    color:aqua;
+}
